@@ -1,4 +1,4 @@
-const users = [{ id: 0, name: 'foo' }, { id: 1, name: 'bar' }]
+const users = [{ id: 0, name: 'foo' }, { id: 1, name: 'bar' }, { id: 2, name: 'アイウエオ'}]
 
 module.exports = {
   get({ values }) {
